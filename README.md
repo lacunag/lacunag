@@ -1,5 +1,5 @@
 # 💫 Acerca de mí:
-Como ingeniero en software y jefe de proyecto TI, poseo sólidas habilidades en desarrollo de software, liderazgo de equipos y gestión de proyectos. Mi experiencia incluye la implementación exitosa de soluciones tecnológicas innovadoras, el diseño de arquitecturas eficientes y la entrega oportuna de productos de calidad. Además, destaco por mi capacidad para comunicarme de manera efectiva y adaptarme rápidamente a los cambios en el entorno tecnológico. Soy un profesional comprometido y orientado a resultados, capaz de enfrentar desafíos y lograr objetivos en entornos dinámicos de desarrollo de software.
+Soy un profesional con amplia experiencia en el desarrollo integral de aplicaciones y la gestión de proyectos tecnológicos. Combino habilidades técnicas avanzadas con una sólida capacidad de liderazgo, lo que me permite crear soluciones tecnológicas completas y efectivas. Destaco por mi capacidad para trabajar y gestionar equipos multidisciplinarios, fomentar la innovación y mejorar procesos técnicos, asegurando que cada proyecto no solo cumpla con los estándares de calidad, sino que también ofrezca valor adicional y soluciones creativas.
 
 
 # 💻 Stack Tecnológico:
